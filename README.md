@@ -21,6 +21,9 @@ requires the most attention.
 3. Airport Zone: Highest traffic (3190 vehicles) but relatively lower accidents and signal delay. Mainly
 a high-traffic flow area.
 
+Dashboards 
+[traficdatass.pdf](https://github.com/user-attachments/files/26835268/traficdatass.pdf)
+[trafficdatass2.pdf](https://github.com/user-attachments/files/26835276/trafficdatass2.pdf)
 
 Conclusion:
                  Industrial zone is the most critical area as it shows high values across all metrics. Downtown follows due to high delay and accidents, while Airport mainly handles high traffic volume.
